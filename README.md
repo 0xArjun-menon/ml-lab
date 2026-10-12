@@ -1,1 +1,1 @@
-# LogiSense-AI
+# ML LAB
